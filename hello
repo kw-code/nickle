@@ -1,0 +1,3 @@
+server:
+  port: 7000
+  foo: 第一个配置中心
